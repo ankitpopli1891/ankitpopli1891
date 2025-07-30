@@ -1,12 +1,9 @@
 ### Hi there 👋
 
-- Currently working on NodeJS, React and a lot of interesting stuff [@upkeep] with the awesome team of [codemymobile].
+- Currently working on Django, React and a lot of interesting stuff [@TracerLabs].
 - Feel free to say hi on [LinkedIn] or [twitter]
 
-Need help with your product ? I can help in reaching out to the amazing people @[codemymobile]. 
-
-[codemymobile]: https://codemymobile.com
-[@upkeep]: https://onupkeep.com
+[@TracerLabs]: https://tracer.tech/
 
 [LinkedIn]: https://www.linkedin.com/in/ankitpopli1891/
 [twitter]: https://twitter.com/ankitpopli1891/
